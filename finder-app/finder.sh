@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # finder shell script for assignment 1
-# Author: Muhammad Soubhi
+# Author: Mohamed Soubhi
 
 # check number of arguments
 if [ "$#" -ne 2 ]; then
